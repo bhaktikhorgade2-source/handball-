@@ -1,0 +1,5 @@
+{
+  "name": "Neon Wall Handball",
+  "description": "A fast-paced, neon-themed wall handball game with physics-based paddle collisions and smooth 60FPS rendering.",
+  "requestFramePermissions": []
+}
